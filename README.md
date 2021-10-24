@@ -29,10 +29,10 @@ You can use [Snack](https://snack.expo.dev/) or any development environement of 
 
 #### Snack
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+Expo Snack is an open-source platform for running React Native apps in the browser. It dynamically bundles and compiles code and runs it in the Expo Client or in a web-player. Code can be saved as "Snacks" and easily shared with others. Snacks can also be embedded to show "live" previews
 
 - Create an account on [snack](https://snack.expo.dev/)
-- Create a project Called ‘List management’
+- Create a project called ‘List management’
 - Import all codes from this repo `https://github.com/Wezalab/ListFoodManagement.git`
 
 #### Using your Computer
